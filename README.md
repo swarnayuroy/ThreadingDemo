@@ -1,2 +1,2 @@
 # ThreadingDemo
-I demonstrated a demo for the multithreading using C#
+I've demonstrated a demo for the multithreading using C#
